@@ -1,0 +1,20 @@
+{
+  "name": "ng-dynamic-bootstrap-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bower": "^1.7.1",
+    "raw-loader": "^0.5.1",
+    "webpack": "^1.12.9"
+  },
+  "devDependencies": {
+    "bower-webpack-plugin": "^0.1.9",
+    "html-webpack-plugin": "^1.7.0"
+  }
+}

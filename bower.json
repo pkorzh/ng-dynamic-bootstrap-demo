@@ -1,0 +1,22 @@
+{
+  "name": "ng-dynamic-bootstrap-demo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Platon Korzh <platon@korzh.io>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "angular-route": "~1.4.8"
+  }
+}
